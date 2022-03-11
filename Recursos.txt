@@ -1,0 +1,19 @@
+Librerias de Python necesarias para los ejercicios:
+PANDAS
+(Tratamiento de datos)
+MATPLOTLIB
+(Visualización de datos)
+SKLEARN
+(Machine Learning)
+SMOPY
+(Mapas)
+
+
+DATOS ORIGINALES EJERCICIO 1
+API FLICKR: https://www.flickr.com/services/api/
+
+DATOS ORIGINALES EJERCICIO 2
+UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+
+REPOSITORIO CON LOS DATOS Y CODIGO
+https://github.com/vnoronoz/taller-aniversario-mastergis
